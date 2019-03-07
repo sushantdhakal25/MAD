@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterHomework</string>
+    <string name="show_count">0</string>
+    <string name="btn_count">Count</string>
+    <string name="txt_input" />
+    <string name="enter_your_text_here">Enter your text here</string>
+</resources>
