@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab Expirement Homework</string>
+    <string name="choose_one">Choose one:</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+</resources>
