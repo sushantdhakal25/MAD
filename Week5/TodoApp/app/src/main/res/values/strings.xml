@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="Next">NEXT</string>
+    <string name="prev">PREV</string>
+    <string-array name="todos">
+        <item>Make Up</item>
+        <item>Drink Coffee</item>
+        <item>Make atleast one person laugh</item>
+        <item>Plant a Tree</item>
+        <item>Go to Sleep</item>
+    </string-array>
+</resources>
